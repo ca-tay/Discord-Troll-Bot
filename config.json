@@ -1,0 +1,7 @@
+{
+    "token": "discord_bot_token_here",
+    
+    "whitelistedUserIds": [
+        "discord_user_id_here"
+    ]
+}
